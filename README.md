@@ -2,7 +2,7 @@
 
 I'm David, current working on computer vision.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasudarunner&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasudarunner&show_icons=true&theme=dark&hide=contribs)](https://github.com/DasudaRunner)
 
 ### Projects
 - A high performance library for image processing.
